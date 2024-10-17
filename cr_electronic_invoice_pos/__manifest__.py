@@ -1,6 +1,6 @@
 {
     'name': 'Facturación electrónica Costa Rica POS',
-    'version': '15.0.1.0.0',
+    'version': '17.0.1.0.0',
     'author': 'Odoo CR, TechMicro Inc S.A.',
     'license': 'OPL-1',
     'website': 'http://www.techmicrocr.com',
