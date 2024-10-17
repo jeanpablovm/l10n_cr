@@ -1,6 +1,6 @@
 {
     "name": "Consultar Información de Clientes en Hacienda Costa Rica - TPV",
-    'version': '15.0.1.0.0',
+    'version': '17.0.1.0.0',
     "author": "Odoo CR, Factura Sempai, FSS Solutions",
     'license': 'LGPL-3',
     "website": "https://github.com/odoocr/l10n_cr",
